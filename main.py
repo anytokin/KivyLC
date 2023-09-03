@@ -82,3 +82,4 @@ Window.softinput_mode = "below_target"
 
 if __name__ == '__main__':
     ScreenApp().run()
+    
